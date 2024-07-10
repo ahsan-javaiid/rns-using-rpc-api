@@ -1,0 +1,14 @@
+{
+  "name": "rns-using-rpc-api",
+  "version": "1.0.0",
+  "description": "Call RNS contracts using rpc api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ahsan-javaiid",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.13.1"
+  }
+}
