@@ -17,9 +17,9 @@ node index.js
 
 # Bug Report
 
-RNS contract calls works fine with public node: https://public-node.rsk.co
-Run the index.js file in this project to reproduce the issue. 
-Using rpc api (https://rpc.testnet.rootstock.io/api_key) with RNS contracts is giving following errors:
+- RNS contract calls works fine with public node: https://public-node.rsk.co
+- Run the index.js file in this project to reproduce the issue. 
+- Using rpc api (https://rpc.testnet.rootstock.io/api_key) with RNS contracts is giving following errors:
 
 ```bash
 Error: could not decode result data (value="0x", info={ "method": "resolver", "signature": "resolver(bytes32)" }, code=BAD_DATA, version=6.13.1)
